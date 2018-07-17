@@ -19,12 +19,13 @@
 
 ## Troubleshooting and support
 
- - Usage or programming related question? Post it on [StackOverflow][so] using the tag *libgit2sharp*
- - Found a bug or missing a feature? Feed the [issue tracker][tracker]
+ - Usage or programming related question? Post it on [StackOverflow][so] using the tag *libgit2sharp-ssh* for SSH specific issues or *libgit2sharp* for core library questions.
+ - Found a bug or missing a feature? Feed the [issue tracker][tracker] (SSH only - main project stuff should go to the [main site][maintracker]
  - Announcements and related miscellanea through Twitter ([@libgit2sharp][twitter])
 
- [so]: http://stackoverflow.com/questions/tagged/libgit2sharp
- [tracker]: https://github.com/libgit2/libgit2sharp/issues
+ [so]: http://stackoverflow.com/questions/tagged/libgit2sharp-ssh
+ [maintracker]: https://github.com/libgit2/libgit2sharp/issues
+ [tracker]: https://github.com/brandonh6k/libgit2sharp-ssh/issues
  [twitter]: http://twitter.com/libgit2sharp
 
 ## Current project status
